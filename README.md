@@ -29,7 +29,7 @@ This dataset was build by augmenting datasets of rainfall, climate and fertilize
 1. Clone this repository to your local machine:
    
    ```bash
-   https://github.com/Gururagavendra/SmartCrop
+   git clone https://github.com/Gururagavendra/SmartCrop
    ```
 
 2. Install the required Python libraries:
